@@ -1,0 +1,14 @@
+
+.card {
+  padding: 2em;
+}
+
+.read-the-docs {
+  color: #888;
+}
+input{
+  max-width: 300px;
+}
+.container{
+  text-align: center;
+}
